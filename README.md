@@ -1,6 +1,6 @@
 # Celogram
 
-A full stack social media dapp built on the celo blockchain
+A full stack DAO built with solidity on the celo blockchain
 
 - Clone the repo to your computer.
 - open the project from from vscode.
