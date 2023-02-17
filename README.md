@@ -1,4 +1,4 @@
-# Celogram
+# CELO-DAO
 
 A full stack DAO built with solidity on the celo blockchain
 
